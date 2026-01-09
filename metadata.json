@@ -1,0 +1,5 @@
+{
+  "name": "Webtoon AI Translator",
+  "description": "An advanced AI-powered tool for translating webtoons. Upload images, detect text boxes via Gemini OCR, manually adjust regions, and automatically replace original text with translated versions while maintaining aesthetic quality.",
+  "requestFramePermissions": []
+}
